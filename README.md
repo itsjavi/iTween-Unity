@@ -11,7 +11,19 @@ This Unity package is maintained by **route1rodent** in Github:
 
 Licensed under the MIT License.
 
-## Important Notes
+## Installation
+
+To install this package, you need to edit your Unity project's `Packages/manifest.json` and add this repository as a dependency. You can also specify the commit hash or tag like this:
+
+```json
+{
+  "dependencies": {
+    "com.pixelplacement.itween": "https://github.com/route1rodent/iTween.git#1.0.0",
+   }
+}
+```
+
+## About this repository
 
 If you need the latest updates, you can also install the plugin using the
 [official Asset Store plugin](https://assetstore.unity.com/packages/tools/animation/itween-84).
