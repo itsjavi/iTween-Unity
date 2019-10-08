@@ -3,7 +3,7 @@
   "displayName": "iTween",
   "version": "1.0.0",
   "unity": "2018.1",
-  "description": "iTween is a battle-tested tweening and interpolation solution for streamlining production in the Unity environment",
+  "description": "iTween is a battle-tested tweening and interpolation solution for Unity.\n\nFor more information, click the 'View documentation link above.",
   "keywords": [
     "Tweening",
     "Tween",
@@ -12,9 +12,9 @@
     "Animation"
   ],
   "category": "Animation",
-  "dependencies": {},
   "author": {
     "name": "Bob Berkebile",
     "url": "http://www.pixelplacement.com"
-  }
+  },
+  "type": "library"
 }
