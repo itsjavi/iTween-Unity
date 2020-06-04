@@ -7,8 +7,8 @@ like Square-Enix.
 For complete documentation, examples, information or reporting any kind of bugs/comments/suggestions
 visit [itween.pixelplacement.com](http://itween.pixelplacement.com)
 
-This Unity package is maintained by **route1rodent** in Github:
-[github.com/route1rodent/iTween](https://github.com/route1rodent/iTween)
+This Unity package is maintained by **@itsjavi** in Github:
+[github.com/itsjavi/iTween-Unity](https://github.com/itsjavi/iTween-Unity)
 
 Licensed under the MIT License.
 
@@ -17,6 +17,7 @@ Licensed under the MIT License.
 ### Install via OpenUPM
 
 The package is available on the [openupm registry](https://openupm.com). It's recommended to install it via [openupm-cli](https://github.com/openupm/openupm-cli).
+
 
 ```
 openupm add com.pixelplacement.itween
@@ -29,7 +30,7 @@ To install this package, you need to edit your Unity project's `Packages/manifes
 ```json
 {
   "dependencies": {
-    "com.pixelplacement.itween": "https://github.com/route1rodent/iTween.git#1.0.0",
+    "com.pixelplacement.itween": "https://github.com/itsjavi/iTween-Unity#1.0.0",
    }
 }
 ```
